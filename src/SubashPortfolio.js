@@ -1222,8 +1222,7 @@ const SubashPortfolio = () => {
           {/* Hero Section */}
           <section id="home" className="hero">
             <div className="hero-content">
-              <div className="avatar">👨‍💻</div>
-              <h1>Subash R</h1>
+<img src="/profile.jpg" alt="Profile" className="avatar" style={{width: '100%', height: '100%', borderRadius: '50%', objectFit: 'cover'}} />              <h1>Subash R</h1>
               <p className="title">Electronics & Communication Engineer</p>
               <p className="bio">
                 I am an aspiring engineer exploring embedded systems, wireless communication, and software development with experience working with Python, C, and project-based implementation, including a LoRa-based GPS tracking system.
