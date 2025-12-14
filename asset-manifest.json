@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/subash-portfolio/static/css/main.e6c13ad2.css",
-    "main.js": "/subash-portfolio/static/js/main.a277d3e9.js",
+    "main.js": "/subash-portfolio/static/js/main.14c17502.js",
     "index.html": "/subash-portfolio/index.html",
     "main.e6c13ad2.css.map": "/subash-portfolio/static/css/main.e6c13ad2.css.map",
-    "main.a277d3e9.js.map": "/subash-portfolio/static/js/main.a277d3e9.js.map"
+    "main.14c17502.js.map": "/subash-portfolio/static/js/main.14c17502.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a277d3e9.js"
+    "static/js/main.14c17502.js"
   ]
 }
